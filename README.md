@@ -3,6 +3,7 @@
 
 ## A Multi-Asset Investment Analysis Forecast  
 ### 🔮 Part 2 of My Graduation Project: Forecasting Real Estate, Gold, and Dollar Trends (2025–2028)
+https://app.powerbi.com/reportEmbed?reportId=bb1bbb64-7c65-4b51-b70b-5f64ec3bb589&autoAuth=true&ctid=2082de46-1afa-4b64-a440-6558f80e9840
 
 In this second phase of my project, I used **LSTM neural networks** and **XGBoost models** to forecast **property prices**, **gold values**, and the **USD exchange rate** in Alexandria (2025–2028).  
 The goal: provide data-driven insights for **long-term investment decisions** across Egypt’s top districts.
